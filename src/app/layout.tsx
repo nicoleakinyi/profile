@@ -5,8 +5,8 @@ import Sidebar from "@/components/Sidebar";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Raj Savaliya | Software Development Engineer",
-  description: "VS code style developer portfolio showcasing skills of Full-Stack Developer with a focus on JavaScript and related technologies.",
+  title: "Nicole Akinyi | Creative Controls Engineer",
+  description: "VS code style developer portfolio showcasing skills of Full-Stack Developer with a focus on Python and related technologies.",
 };
 
 export default function RootLayout({
