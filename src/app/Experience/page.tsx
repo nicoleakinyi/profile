@@ -1,21 +1,33 @@
 export default function Experience() {
   const experiences = [
     {
-      title: "Software Development Engineer II",
-      company: "Jio Hotstar (Disney+ Hotstar/JioCinema), IN",
-      period: "Feb 2024 - present",
+      title: "Tech lead",
+      company: "ARTS Tech , KE",
+      period: "Sep 2024 - present",
       icon: "https://ext.same-assets.com/1282326863/4196962395.png",
     },
     {
-      title: "Software Development Engineer I",
-      company: "Velotio Technologies, IN",
-      period: "Aug 2021 - Feb. 2024",
+      title: "Founder & CEO",
+      company: "Intouch , KE",
+      period: "Feb 2024 - Dec 2024",
+      icon: "https://ext.same-assets.com/1282326863/4196962395.png",
+    },
+    {
+      title: "Electrical engineer",
+      company: "Roam Electric, KE",
+      period: "Mar 2023 - Jan 2024",
       icon: "https://ext.same-assets.com/1282326863/2336012670.jpeg",
     },
     {
-      title: "Associate Software Engineer",
-      company: "HHAeXchange, IN",
-      period: "Dec 2020 - Aug 2021",
+      title: "Program Manager & Project Lead",
+      company: "Akili Factory X Microsoft Garage , KE",
+      period: "Oct 2022 - May 2023",
+      icon: "https://ext.same-assets.com/1282326863/4196962395.png",
+    },
+    {
+      title: "Electrical engineering intern",
+      company: "Gearbox Europlace, KE",
+      period: "Sep 2022 - Dec 2022",
       icon: "https://ext.same-assets.com/1282326863/1921075801.png",
     },
   ];
